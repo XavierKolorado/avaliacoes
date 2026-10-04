@@ -6,4 +6,6 @@
 
 ## Avaliação
 
-> Aguardando avaliação do cliente.
+![Avaliação de Rita Festas](avaliacao-rita.png)
+
+> Super indico o Gabriel pelo serviço prestado a Rita Festas a criação do site, super atencioso e rápido, me deu todo suporte necessário e atenção, estou muito satisfeita com trabalho prestado, super indico !!
