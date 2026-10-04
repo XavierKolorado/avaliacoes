@@ -4,6 +4,6 @@ Depoimentos e feedbacks de clientes sobre os projetos de desenvolvimento web rea
 
 ## Clientes
 
-- [Nicky Aguiar](nicky-aguiar.md)
-- [Rita Festas](rita-festas.md)
-- [WIP Festas](wip-festas.md)
+- [Nicky Aguiar](nicky-aguiar/nicky-aguiar.md)
+- [Rita Festas](rita-festas/rita-festas.md)
+- [WIP Festas](wip-festas/wip-festas.md)
